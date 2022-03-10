@@ -2,11 +2,7 @@ name: Go Mining
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - "main"
-    paths:
-      - "src/**"
+  
   #   一天运行两次
   schedule:
     - cron: '20 2,13 * * *'
