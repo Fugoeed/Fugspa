@@ -9,7 +9,7 @@ on:
       - "src/**"
   #   一天运行两次
   schedule:
-    - cron: '25 */12 * * *'
+    - cron: '20 2,13 * * *'
 
 jobs:
   build:
