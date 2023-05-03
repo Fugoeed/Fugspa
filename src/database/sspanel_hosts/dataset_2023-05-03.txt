@@ -1,10 +1,10 @@
-https://freesock.us/auth/register
-https://www.v2raya.vip/auth/register
-https://test.biubiufly.com/auth/register
-https://tutu4.xyz/auth/register
-https://sttlink.cc/auth/register
-https://getluffy.asia/auth/register
 https://miru.cloud/auth/register
-https://ark.to/auth/register
+https://freesock.us/auth/register
+https://test.biubiufly.com/auth/register
 https://www.ssrmo.co/auth/register
 https://fyun.cf/auth/register
+https://tutu4.xyz/auth/register
+https://sttlink.cc/auth/register
+https://www.v2raya.vip/auth/register
+https://ark.to/auth/register
+https://getluffy.asia/auth/register
